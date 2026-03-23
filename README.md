@@ -16,4 +16,12 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Amirtaa-567/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Amirtaa-567/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Amirtaa-567/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Amirtaa-567/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
