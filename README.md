@@ -24,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Amirtaa-567/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/Amirtaa-567/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/Amirtaa-567/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Amirtaa-567/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amirtaa-567/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -65,4 +66,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/Amirtaa-567/Leetcode/tree/main/1472-design-browser-history/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Amirtaa-567/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Amirtaa-567/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Amirtaa-567/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
