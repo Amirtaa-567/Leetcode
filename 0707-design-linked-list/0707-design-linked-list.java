@@ -4,7 +4,6 @@ class MyLinkedList {
         Node next;
         Node(int val){
             this.val=val;
-            // next=null;
         }
     }
     Node head,tail;
@@ -68,7 +67,6 @@ class MyLinkedList {
     }
     
     public void deleteAtIndex(int index) {
-        
         if(index<0||index>=cnt){
             return;
         }
