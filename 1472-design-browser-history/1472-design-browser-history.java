@@ -5,7 +5,8 @@ class BrowserHistory {
         Node next;
         Node(String url){
             this.url=url;
-            prev=next=null;
+            prev=null;
+            next=null;
         }
     }
     Node cur;
