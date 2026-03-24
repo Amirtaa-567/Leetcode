@@ -74,9 +74,9 @@ class MyLinkedList {
         }
         if(index==0){
             head=head.next;
-            // if(head.next==null){
-            //     tail=null;
-            // }
+            if(head==null){
+                tail=null;
+            }
             cnt-=1;
         }else{
             Node temp=head;
