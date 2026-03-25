@@ -20,9 +20,9 @@ class Solution {
             }
         }
         int sum=0;
-        for(int s:st)
+        for(int s:st){
             sum+=s;
-            
+        }
         return sum;
     }
 }
