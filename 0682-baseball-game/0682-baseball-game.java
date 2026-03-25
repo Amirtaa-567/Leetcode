@@ -1,7 +1,6 @@
 class Solution {
     public int calPoints(String[] operations) {
         Stack<Integer> st=new Stack<>();
-        int top=-1;
         for(String op:operations){
             if(op.equals("+")){
                 int x=st.pop();
