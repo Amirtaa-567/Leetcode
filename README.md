@@ -57,6 +57,7 @@
 | [0001-two-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Amirtaa-567/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amirtaa-567/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0217-contains-duplicate](https://github.com/Amirtaa-567/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@
 | [0051-n-queens](https://github.com/Amirtaa-567/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amirtaa-567/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amirtaa-567/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0217-contains-duplicate](https://github.com/Amirtaa-567/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0682-baseball-game](https://github.com/Amirtaa-567/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1472-design-browser-history](https://github.com/Amirtaa-567/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Amirtaa-567/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -123,4 +125,8 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Amirtaa-567/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amirtaa-567/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Amirtaa-567/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
