@@ -69,6 +69,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0051-n-queens](https://github.com/Amirtaa-567/Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Amirtaa-567/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amirtaa-567/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0682-baseball-game](https://github.com/Amirtaa-567/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1472-design-browser-history](https://github.com/Amirtaa-567/Leetcode/tree/main/1472-design-browser-history/) | Medium |
@@ -121,4 +122,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Amirtaa-567/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Amirtaa-567/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
