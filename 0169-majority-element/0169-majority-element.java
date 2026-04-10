@@ -16,13 +16,12 @@ class Solution {
         for(int num:nums){
             if(num==ce){
                 c++;
-          }
+            }
         }
         if(c>n/2){
             return ce;
         }else{
             return -1;
         }
-        
     }
 }
