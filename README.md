@@ -54,6 +54,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Amirtaa-567/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Amirtaa-567/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Amirtaa-567/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/Amirtaa-567/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Amirtaa-567/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
@@ -142,6 +143,7 @@
 | [0022-generate-parentheses](https://github.com/Amirtaa-567/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/Amirtaa-567/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Amirtaa-567/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/Amirtaa-567/Leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
