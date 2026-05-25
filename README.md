@@ -92,6 +92,7 @@
 | [0682-baseball-game](https://github.com/Amirtaa-567/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/Amirtaa-567/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1046-last-stone-weight](https://github.com/Amirtaa-567/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1472-design-browser-history](https://github.com/Amirtaa-567/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Amirtaa-567/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Doubly-Linked List
@@ -114,6 +115,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Amirtaa-567/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [1046-last-stone-weight](https://github.com/Amirtaa-567/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
