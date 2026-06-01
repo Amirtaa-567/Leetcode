@@ -7,7 +7,6 @@ class Solution {
                 dp[i]+=dp[i-coin];
             }
         }
-        // if(dp[amount]>amount) return 0;
         return dp[amount];
     }
 }
