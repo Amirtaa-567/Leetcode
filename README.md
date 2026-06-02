@@ -173,9 +173,11 @@
 | [0070-climbing-stairs](https://github.com/Amirtaa-567/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amirtaa-567/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0231-power-of-two](https://github.com/Amirtaa-567/Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/Amirtaa-567/Leetcode/tree/main/0258-add-digits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Amirtaa-567/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0682-baseball-game](https://github.com/Amirtaa-567/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Amirtaa-567/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Amirtaa-567/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -303,4 +305,8 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/Amirtaa-567/Leetcode/tree/main/0231-power-of-two/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Amirtaa-567/Leetcode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
