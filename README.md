@@ -240,6 +240,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Amirtaa-567/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amirtaa-567/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Amirtaa-567/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
+| [3019-number-of-changing-keys](https://github.com/Amirtaa-567/Leetcode/tree/main/3019-number-of-changing-keys/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
