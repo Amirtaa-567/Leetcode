@@ -199,6 +199,7 @@
 | [2652-sum-multiples](https://github.com/Amirtaa-567/Leetcode/tree/main/2652-sum-multiples/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/Amirtaa-567/Leetcode/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Amirtaa-567/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Amirtaa-567/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
