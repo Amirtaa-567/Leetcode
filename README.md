@@ -53,6 +53,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Amirtaa-567/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/Amirtaa-567/Leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/Amirtaa-567/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Amirtaa-567/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Amirtaa-567/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -96,6 +97,7 @@
 | [0053-maximum-subarray](https://github.com/Amirtaa-567/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Amirtaa-567/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/Amirtaa-567/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amirtaa-567/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amirtaa-567/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -209,6 +211,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Amirtaa-567/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/Amirtaa-567/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Amirtaa-567/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
