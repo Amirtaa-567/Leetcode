@@ -129,6 +129,7 @@
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Amirtaa-567/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Amirtaa-567/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1472-design-browser-history](https://github.com/Amirtaa-567/Leetcode/tree/main/1472-design-browser-history/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/Amirtaa-567/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Amirtaa-567/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Amirtaa-567/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Doubly-Linked List
@@ -295,6 +296,7 @@
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/Amirtaa-567/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/Amirtaa-567/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
