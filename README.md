@@ -190,6 +190,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Amirtaa-567/Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/Amirtaa-567/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2235-add-two-integers](https://github.com/Amirtaa-567/Leetcode/tree/main/2235-add-two-integers/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Amirtaa-567/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
