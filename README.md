@@ -94,6 +94,7 @@
 | [0049-group-anagrams](https://github.com/Amirtaa-567/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Amirtaa-567/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Amirtaa-567/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/Amirtaa-567/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amirtaa-567/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amirtaa-567/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -159,6 +160,7 @@
 | [0012-integer-to-roman](https://github.com/Amirtaa-567/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Amirtaa-567/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0062-unique-paths](https://github.com/Amirtaa-567/Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/Amirtaa-567/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Amirtaa-567/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amirtaa-567/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Simulation
