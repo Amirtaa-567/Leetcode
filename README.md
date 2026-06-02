@@ -141,6 +141,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/Amirtaa-567/Leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Amirtaa-567/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/Amirtaa-567/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
+| [3024-type-of-triangle](https://github.com/Amirtaa-567/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +204,7 @@
 | [2748-number-of-beautiful-pairs](https://github.com/Amirtaa-567/Leetcode/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Amirtaa-567/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Amirtaa-567/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3024-type-of-triangle](https://github.com/Amirtaa-567/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,6 +272,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Amirtaa-567/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [2974-minimum-number-game](https://github.com/Amirtaa-567/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
+| [3024-type-of-triangle](https://github.com/Amirtaa-567/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
