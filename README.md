@@ -64,6 +64,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amirtaa-567/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/Amirtaa-567/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Amirtaa-567/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amirtaa-567/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Amirtaa-567/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -147,6 +148,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Amirtaa-567/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/Amirtaa-567/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0062-unique-paths](https://github.com/Amirtaa-567/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Amirtaa-567/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amirtaa-567/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -166,6 +168,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amirtaa-567/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/Amirtaa-567/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Amirtaa-567/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/Amirtaa-567/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/Amirtaa-567/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
