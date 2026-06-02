@@ -186,6 +186,7 @@
 | [0258-add-digits](https://github.com/Amirtaa-567/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Amirtaa-567/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Amirtaa-567/Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1925-count-square-sum-triples](https://github.com/Amirtaa-567/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -331,4 +332,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Amirtaa-567/Leetcode/tree/main/0258-add-digits/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1925-count-square-sum-triples](https://github.com/Amirtaa-567/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
 <!---LeetCode Topics End-->
