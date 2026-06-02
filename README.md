@@ -119,6 +119,7 @@
 | [0414-third-maximum-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Amirtaa-567/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0518-coin-change-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [0665-non-decreasing-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0665-non-decreasing-array/) | Medium |
 | [0682-baseball-game](https://github.com/Amirtaa-567/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/Amirtaa-567/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Amirtaa-567/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
