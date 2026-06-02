@@ -80,6 +80,7 @@
 | [0217-contains-duplicate](https://github.com/Amirtaa-567/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Amirtaa-567/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Amirtaa-567/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Amirtaa-567/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +126,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/Amirtaa-567/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/Amirtaa-567/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Amirtaa-567/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1472-design-browser-history](https://github.com/Amirtaa-567/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Amirtaa-567/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Amirtaa-567/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -240,6 +242,7 @@
 | [0414-third-maximum-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Amirtaa-567/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Amirtaa-567/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
