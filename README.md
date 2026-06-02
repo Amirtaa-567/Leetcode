@@ -127,6 +127,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/Amirtaa-567/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Amirtaa-567/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
+| [1470-shuffle-the-array](https://github.com/Amirtaa-567/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1472-design-browser-history](https://github.com/Amirtaa-567/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Amirtaa-567/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Amirtaa-567/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
