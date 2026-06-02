@@ -138,6 +138,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amirtaa-567/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Amirtaa-567/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/Amirtaa-567/Leetcode/tree/main/2748-number-of-beautiful-pairs/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Amirtaa-567/Leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
