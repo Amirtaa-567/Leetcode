@@ -135,6 +135,7 @@
 | [1929-concatenation-of-array](https://github.com/Amirtaa-567/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Amirtaa-567/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amirtaa-567/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Amirtaa-567/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +192,7 @@
 | [1925-count-square-sum-triples](https://github.com/Amirtaa-567/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2235-add-two-integers](https://github.com/Amirtaa-567/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Amirtaa-567/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Amirtaa-567/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
