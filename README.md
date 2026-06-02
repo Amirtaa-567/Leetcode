@@ -134,6 +134,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Amirtaa-567/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Amirtaa-567/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Amirtaa-567/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amirtaa-567/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +223,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/Amirtaa-567/Leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Amirtaa-567/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Amirtaa-567/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amirtaa-567/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
