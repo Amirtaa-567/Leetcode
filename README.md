@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/Amirtaa-567/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Amirtaa-567/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amirtaa-567/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Amirtaa-567/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Amirtaa-567/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -155,6 +156,7 @@
 | ------- | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Amirtaa-567/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/Amirtaa-567/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Amirtaa-567/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Amirtaa-567/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -246,6 +248,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Amirtaa-567/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Amirtaa-567/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -253,6 +256,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Amirtaa-567/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Amirtaa-567/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
