@@ -197,6 +197,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Amirtaa-567/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/Amirtaa-567/Leetcode/tree/main/2652-sum-multiples/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/Amirtaa-567/Leetcode/tree/main/2748-number-of-beautiful-pairs/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/Amirtaa-567/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
