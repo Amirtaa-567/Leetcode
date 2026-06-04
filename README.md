@@ -243,6 +243,7 @@
 | [0412-fizz-buzz](https://github.com/Amirtaa-567/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/Amirtaa-567/Leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Amirtaa-567/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Amirtaa-567/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Amirtaa-567/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amirtaa-567/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Amirtaa-567/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
@@ -356,6 +357,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amirtaa-567/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Amirtaa-567/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Amirtaa-567/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
