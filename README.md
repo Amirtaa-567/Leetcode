@@ -127,6 +127,7 @@
 | [0518-coin-change-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0665-non-decreasing-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0665-non-decreasing-array/) | Medium |
 | [0682-baseball-game](https://github.com/Amirtaa-567/Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/Amirtaa-567/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Amirtaa-567/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Amirtaa-567/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -289,6 +290,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Amirtaa-567/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Amirtaa-567/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Amirtaa-567/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -352,11 +354,13 @@
 | [0035-search-insert-position](https://github.com/Amirtaa-567/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Amirtaa-567/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Amirtaa-567/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amirtaa-567/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Amirtaa-567/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0713-subarray-product-less-than-k](https://github.com/Amirtaa-567/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Amirtaa-567/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
