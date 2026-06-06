@@ -145,6 +145,7 @@
 | [1929-concatenation-of-array](https://github.com/Amirtaa-567/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Amirtaa-567/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Amirtaa-567/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Amirtaa-567/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Amirtaa-567/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/Amirtaa-567/Leetcode/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Amirtaa-567/Leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
@@ -299,6 +300,7 @@
 | [0238-product-of-array-except-self](https://github.com/Amirtaa-567/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Amirtaa-567/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Amirtaa-567/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Amirtaa-567/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -342,6 +344,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/Amirtaa-567/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Amirtaa-567/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Amirtaa-567/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
