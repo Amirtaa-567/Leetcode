@@ -404,6 +404,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Amirtaa-567/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0177-nth-highest-salary](https://github.com/Amirtaa-567/Leetcode/tree/main/0177-nth-highest-salary/) | Medium |
 | [0595-big-countries](https://github.com/Amirtaa-567/Leetcode/tree/main/0595-big-countries/) | Easy |
 | [0626-exchange-seats](https://github.com/Amirtaa-567/Leetcode/tree/main/0626-exchange-seats/) | Medium |
