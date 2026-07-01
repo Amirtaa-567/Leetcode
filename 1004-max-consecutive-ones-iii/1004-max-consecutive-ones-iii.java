@@ -16,7 +16,7 @@ class Solution {
                 }
                 l++;
             }
-            maxlen=Math.max(maxlen, r - l + 1);
+            maxlen=Math.max(maxlen, r-l+1);
             r++;
         }
         return maxlen;
