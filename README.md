@@ -416,6 +416,7 @@
 | [0176-second-highest-salary](https://github.com/Amirtaa-567/Leetcode/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/Amirtaa-567/Leetcode/tree/main/0177-nth-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/Amirtaa-567/Leetcode/tree/main/0182-duplicate-emails/) | Easy |
+| [0183-customers-who-never-order](https://github.com/Amirtaa-567/Leetcode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0595-big-countries](https://github.com/Amirtaa-567/Leetcode/tree/main/0595-big-countries/) | Easy |
 | [0626-exchange-seats](https://github.com/Amirtaa-567/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Amirtaa-567/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
