@@ -70,6 +70,7 @@
 | [0283-move-zeroes](https://github.com/Amirtaa-567/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Amirtaa-567/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Amirtaa-567/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Amirtaa-567/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
@@ -274,6 +275,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Amirtaa-567/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Amirtaa-567/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/Amirtaa-567/Leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Amirtaa-567/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Amirtaa-567/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Amirtaa-567/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -478,4 +480,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amirtaa-567/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0680-valid-palindrome-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 <!---LeetCode Topics End-->
