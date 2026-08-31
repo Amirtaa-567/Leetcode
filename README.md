@@ -423,6 +423,7 @@
 | [0626-exchange-seats](https://github.com/Amirtaa-567/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Amirtaa-567/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/Amirtaa-567/Leetcode/tree/main/1148-article-views-i/) | Easy |
+| [1164-product-price-at-a-given-date](https://github.com/Amirtaa-567/Leetcode/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Amirtaa-567/Leetcode/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1321-restaurant-growth](https://github.com/Amirtaa-567/Leetcode/tree/main/1321-restaurant-growth/) | Medium |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Amirtaa-567/Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
