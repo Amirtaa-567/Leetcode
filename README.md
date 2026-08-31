@@ -86,6 +86,7 @@
 | [0217-contains-duplicate](https://github.com/Amirtaa-567/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Amirtaa-567/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Amirtaa-567/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0869-reordered-power-of-2](https://github.com/Amirtaa-567/Leetcode/tree/main/0869-reordered-power-of-2/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Amirtaa-567/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Amirtaa-567/Leetcode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/Amirtaa-567/Leetcode/tree/main/2748-number-of-beautiful-pairs/) | Easy |
@@ -217,6 +218,7 @@
 | [0292-nim-game](https://github.com/Amirtaa-567/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/Amirtaa-567/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0412-fizz-buzz](https://github.com/Amirtaa-567/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0869-reordered-power-of-2](https://github.com/Amirtaa-567/Leetcode/tree/main/0869-reordered-power-of-2/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Amirtaa-567/Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/Amirtaa-567/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2235-add-two-integers](https://github.com/Amirtaa-567/Leetcode/tree/main/2235-add-two-integers/) | Easy |
@@ -302,6 +304,7 @@
 | [0217-contains-duplicate](https://github.com/Amirtaa-567/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Amirtaa-567/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0414-third-maximum-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0869-reordered-power-of-2](https://github.com/Amirtaa-567/Leetcode/tree/main/0869-reordered-power-of-2/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Amirtaa-567/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Amirtaa-567/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
@@ -312,6 +315,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Amirtaa-567/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Amirtaa-567/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0869-reordered-power-of-2](https://github.com/Amirtaa-567/Leetcode/tree/main/0869-reordered-power-of-2/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/Amirtaa-567/Leetcode/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -412,6 +416,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0869-reordered-power-of-2](https://github.com/Amirtaa-567/Leetcode/tree/main/0869-reordered-power-of-2/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/Amirtaa-567/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
