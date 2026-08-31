@@ -112,6 +112,7 @@
 | [0049-group-anagrams](https://github.com/Amirtaa-567/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Amirtaa-567/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Amirtaa-567/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Amirtaa-567/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -229,6 +230,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/Amirtaa-567/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Amirtaa-567/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0682-baseball-game](https://github.com/Amirtaa-567/Leetcode/tree/main/0682-baseball-game/) | Easy |
@@ -357,6 +359,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Amirtaa-567/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/Amirtaa-567/Leetcode/tree/main/0200-number-of-islands/) | Medium |
