@@ -241,6 +241,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/Amirtaa-567/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Amirtaa-567/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3024-type-of-triangle](https://github.com/Amirtaa-567/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Amirtaa-567/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -441,6 +442,7 @@
 | ------- | ------- |
 | [0869-reordered-power-of-2](https://github.com/Amirtaa-567/Leetcode/tree/main/0869-reordered-power-of-2/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/Amirtaa-567/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Amirtaa-567/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
