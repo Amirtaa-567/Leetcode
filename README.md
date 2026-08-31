@@ -424,6 +424,7 @@
 | [1068-product-sales-analysis-i](https://github.com/Amirtaa-567/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/Amirtaa-567/Leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Amirtaa-567/Leetcode/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
+| [1321-restaurant-growth](https://github.com/Amirtaa-567/Leetcode/tree/main/1321-restaurant-growth/) | Medium |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Amirtaa-567/Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Amirtaa-567/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Amirtaa-567/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
