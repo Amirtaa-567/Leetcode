@@ -107,6 +107,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Amirtaa-567/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Amirtaa-567/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0046-permutations](https://github.com/Amirtaa-567/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Amirtaa-567/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Amirtaa-567/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Amirtaa-567/Leetcode/tree/main/0051-n-queens/) | Hard |
@@ -242,6 +243,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Amirtaa-567/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0046-permutations](https://github.com/Amirtaa-567/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Amirtaa-567/Leetcode/tree/main/0051-n-queens/) | Hard |
 ## String
 | Problem Name | Difficulty |
