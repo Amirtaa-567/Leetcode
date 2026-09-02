@@ -190,6 +190,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Amirtaa-567/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/Amirtaa-567/Leetcode/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0139-word-break](https://github.com/Amirtaa-567/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amirtaa-567/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Amirtaa-567/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -651,6 +652,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/Amirtaa-567/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/Amirtaa-567/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0645-set-mismatch](https://github.com/Amirtaa-567/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Number Theory
