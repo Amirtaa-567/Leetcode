@@ -416,6 +416,7 @@
 | [0020-valid-parentheses](https://github.com/Amirtaa-567/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Amirtaa-567/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Amirtaa-567/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0038-count-and-say](https://github.com/Amirtaa-567/Leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/Amirtaa-567/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/Amirtaa-567/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/Amirtaa-567/Leetcode/tree/main/0049-group-anagrams/) | Medium |
