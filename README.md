@@ -152,6 +152,7 @@
 | [0051-n-queens](https://github.com/Amirtaa-567/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Amirtaa-567/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/Amirtaa-567/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Amirtaa-567/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Amirtaa-567/Leetcode/tree/main/0066-plus-one/) | Easy |
@@ -379,6 +380,7 @@
 | [0044-wildcard-matching](https://github.com/Amirtaa-567/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Amirtaa-567/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Amirtaa-567/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Amirtaa-567/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Amirtaa-567/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
@@ -606,6 +608,7 @@
 | [0011-container-with-most-water](https://github.com/Amirtaa-567/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0044-wildcard-matching](https://github.com/Amirtaa-567/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/Amirtaa-567/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/Amirtaa-567/Leetcode/tree/main/0135-candy/) | Hard |
 | [0321-create-maximum-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0680-valid-palindrome-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
