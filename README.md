@@ -243,6 +243,7 @@
 | [2942-find-words-containing-character](https://github.com/Amirtaa-567/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/Amirtaa-567/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/Amirtaa-567/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Amirtaa-567/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -344,6 +345,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Amirtaa-567/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3024-type-of-triangle](https://github.com/Amirtaa-567/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Amirtaa-567/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Amirtaa-567/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
