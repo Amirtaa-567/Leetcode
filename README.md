@@ -309,6 +309,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Amirtaa-567/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/Amirtaa-567/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/Amirtaa-567/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0065-valid-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0065-valid-number/) | Hard |
 | [0072-edit-distance](https://github.com/Amirtaa-567/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Amirtaa-567/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/Amirtaa-567/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
