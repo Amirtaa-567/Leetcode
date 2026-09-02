@@ -269,6 +269,7 @@
 | ------- | ------- |
 | [0079-word-search](https://github.com/Amirtaa-567/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Amirtaa-567/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0112-path-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Amirtaa-567/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Amirtaa-567/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Amirtaa-567/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -471,6 +472,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0112-path-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Amirtaa-567/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Amirtaa-567/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Amirtaa-567/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -485,6 +487,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0112-path-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Amirtaa-567/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Amirtaa-567/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Amirtaa-567/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -497,6 +500,7 @@
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0112-path-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Amirtaa-567/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Amirtaa-567/Leetcode/tree/main/0127-word-ladder/) | Hard |
