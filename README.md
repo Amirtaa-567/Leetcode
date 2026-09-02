@@ -25,6 +25,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Amirtaa-567/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Amirtaa-567/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/Amirtaa-567/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0707-design-linked-list](https://github.com/Amirtaa-567/Leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Amirtaa-567/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1472-design-browser-history](https://github.com/Amirtaa-567/Leetcode/tree/main/1472-design-browser-history/) | Medium |
@@ -75,6 +76,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Amirtaa-567/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Amirtaa-567/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Amirtaa-567/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/Amirtaa-567/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0321-create-maximum-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0344-reverse-string](https://github.com/Amirtaa-567/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Amirtaa-567/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -208,6 +210,7 @@
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Amirtaa-567/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0933-number-of-recent-calls](https://github.com/Amirtaa-567/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1472-design-browser-history](https://github.com/Amirtaa-567/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Divide and Conquer
@@ -228,6 +231,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0218-the-skyline-problem](https://github.com/Amirtaa-567/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Amirtaa-567/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0295-find-median-from-data-stream](https://github.com/Amirtaa-567/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1046-last-stone-weight](https://github.com/Amirtaa-567/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [2974-minimum-number-game](https://github.com/Amirtaa-567/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## Merge Sort
@@ -387,6 +391,7 @@
 | [0217-contains-duplicate](https://github.com/Amirtaa-567/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0218-the-skyline-problem](https://github.com/Amirtaa-567/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0242-valid-anagram](https://github.com/Amirtaa-567/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/Amirtaa-567/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/Amirtaa-567/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0645-set-mismatch](https://github.com/Amirtaa-567/Leetcode/tree/main/0645-set-mismatch/) | Easy |
