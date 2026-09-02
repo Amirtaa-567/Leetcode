@@ -144,6 +144,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Amirtaa-567/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amirtaa-567/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0135-candy](https://github.com/Amirtaa-567/Leetcode/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amirtaa-567/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/Amirtaa-567/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -535,6 +536,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0135-candy](https://github.com/Amirtaa-567/Leetcode/tree/main/0135-candy/) | Hard |
 | [0321-create-maximum-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0680-valid-palindrome-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Binary Indexed Tree
