@@ -148,6 +148,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Amirtaa-567/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Amirtaa-567/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0327-count-of-range-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0327-count-of-range-sum/) | Hard |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/Amirtaa-567/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Amirtaa-567/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -220,6 +221,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/Amirtaa-567/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Amirtaa-567/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Amirtaa-567/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/Amirtaa-567/Leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
@@ -324,6 +326,7 @@
 | [0233-number-of-digit-one](https://github.com/Amirtaa-567/Leetcode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/Amirtaa-567/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Amirtaa-567/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0518-coin-change-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Amirtaa-567/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amirtaa-567/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -394,6 +397,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0200-number-of-islands](https://github.com/Amirtaa-567/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/Amirtaa-567/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -407,17 +411,20 @@
 | [0073-set-matrix-zeroes](https://github.com/Amirtaa-567/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/Amirtaa-567/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0867-transpose-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Amirtaa-567/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Amirtaa-567/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [1791-find-center-of-star-graph](https://github.com/Amirtaa-567/Leetcode/tree/main/1791-find-center-of-star-graph/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Amirtaa-567/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -538,4 +545,12 @@
 | ------- | ------- |
 | [0327-count-of-range-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0327-count-of-range-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/Amirtaa-567/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 <!---LeetCode Topics End-->
