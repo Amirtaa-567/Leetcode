@@ -458,6 +458,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Amirtaa-567/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0102-binary-tree-level-order-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Amirtaa-567/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -468,6 +469,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Amirtaa-567/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0102-binary-tree-level-order-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Amirtaa-567/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -477,6 +479,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Amirtaa-567/Leetcode/tree/main/0127-word-ladder/) | Hard |
