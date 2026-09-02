@@ -130,6 +130,7 @@
 | [0035-search-insert-position](https://github.com/Amirtaa-567/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/Amirtaa-567/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Amirtaa-567/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Amirtaa-567/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Amirtaa-567/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Amirtaa-567/Leetcode/tree/main/0049-group-anagrams/) | Medium |
@@ -332,6 +333,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Amirtaa-567/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Amirtaa-567/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/Amirtaa-567/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Amirtaa-567/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Amirtaa-567/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
@@ -542,6 +544,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/Amirtaa-567/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0135-candy](https://github.com/Amirtaa-567/Leetcode/tree/main/0135-candy/) | Hard |
 | [0321-create-maximum-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0680-valid-palindrome-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
