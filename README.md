@@ -106,6 +106,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Amirtaa-567/Leetcode/tree/main/0127-word-ladder/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/Amirtaa-567/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Amirtaa-567/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amirtaa-567/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Amirtaa-567/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -173,6 +174,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amirtaa-567/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Amirtaa-567/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/Amirtaa-567/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/Amirtaa-567/Leetcode/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amirtaa-567/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -504,6 +506,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Amirtaa-567/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/Amirtaa-567/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
