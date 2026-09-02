@@ -10,6 +10,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amirtaa-567/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0224-basic-calculator](https://github.com/Amirtaa-567/Leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/Amirtaa-567/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Amirtaa-567/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Amirtaa-567/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -106,6 +107,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Amirtaa-567/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/Amirtaa-567/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Amirtaa-567/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0224-basic-calculator](https://github.com/Amirtaa-567/Leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/Amirtaa-567/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Amirtaa-567/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Array
@@ -227,6 +229,7 @@
 | [0069-sqrtx](https://github.com/Amirtaa-567/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Amirtaa-567/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amirtaa-567/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0224-basic-calculator](https://github.com/Amirtaa-567/Leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/Amirtaa-567/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Amirtaa-567/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/Amirtaa-567/Leetcode/tree/main/0292-nim-game/) | Easy |
@@ -283,6 +286,7 @@
 | [0072-edit-distance](https://github.com/Amirtaa-567/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Amirtaa-567/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/Amirtaa-567/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0224-basic-calculator](https://github.com/Amirtaa-567/Leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/Amirtaa-567/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Amirtaa-567/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Amirtaa-567/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
