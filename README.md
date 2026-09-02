@@ -203,6 +203,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/Amirtaa-567/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Amirtaa-567/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/Amirtaa-567/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0518-coin-change-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
@@ -427,6 +428,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Amirtaa-567/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Amirtaa-567/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Amirtaa-567/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amirtaa-567/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -736,4 +738,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Amirtaa-567/Leetcode/tree/main/0139-word-break/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
