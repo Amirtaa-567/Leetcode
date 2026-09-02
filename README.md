@@ -86,6 +86,7 @@
 | [0012-integer-to-roman](https://github.com/Amirtaa-567/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Amirtaa-567/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0041-first-missing-positive](https://github.com/Amirtaa-567/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Amirtaa-567/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Amirtaa-567/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Amirtaa-567/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
@@ -123,6 +124,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Amirtaa-567/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Amirtaa-567/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/Amirtaa-567/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/Amirtaa-567/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Amirtaa-567/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Amirtaa-567/Leetcode/tree/main/0049-group-anagrams/) | Medium |
