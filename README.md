@@ -321,6 +321,7 @@
 | [0125-valid-palindrome](https://github.com/Amirtaa-567/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0126-word-ladder-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Amirtaa-567/Leetcode/tree/main/0127-word-ladder/) | Hard |
+| [0132-palindrome-partitioning-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0224-basic-calculator](https://github.com/Amirtaa-567/Leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/Amirtaa-567/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Amirtaa-567/Leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -353,6 +354,7 @@
 | [0115-distinct-subsequences](https://github.com/Amirtaa-567/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amirtaa-567/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Amirtaa-567/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0132-palindrome-partitioning-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Amirtaa-567/Leetcode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Amirtaa-567/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0233-number-of-digit-one](https://github.com/Amirtaa-567/Leetcode/tree/main/0233-number-of-digit-one/) | Hard |
