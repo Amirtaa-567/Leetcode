@@ -231,6 +231,7 @@
 | [0292-nim-game](https://github.com/Amirtaa-567/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/Amirtaa-567/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0412-fizz-buzz](https://github.com/Amirtaa-567/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0507-perfect-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0869-reordered-power-of-2](https://github.com/Amirtaa-567/Leetcode/tree/main/0869-reordered-power-of-2/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Amirtaa-567/Leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/Amirtaa-567/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
