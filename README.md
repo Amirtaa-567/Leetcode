@@ -153,6 +153,7 @@
 | [0136-single-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amirtaa-567/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/Amirtaa-567/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0174-dungeon-game](https://github.com/Amirtaa-567/Leetcode/tree/main/0174-dungeon-game/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Amirtaa-567/Leetcode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Amirtaa-567/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Amirtaa-567/Leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -358,6 +359,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Amirtaa-567/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Amirtaa-567/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0174-dungeon-game](https://github.com/Amirtaa-567/Leetcode/tree/main/0174-dungeon-game/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Amirtaa-567/Leetcode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Amirtaa-567/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0233-number-of-digit-one](https://github.com/Amirtaa-567/Leetcode/tree/main/0233-number-of-digit-one/) | Hard |
@@ -449,6 +451,7 @@
 | [0064-minimum-path-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Amirtaa-567/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0174-dungeon-game](https://github.com/Amirtaa-567/Leetcode/tree/main/0174-dungeon-game/) | Hard |
 | [0200-number-of-islands](https://github.com/Amirtaa-567/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0867-transpose-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
