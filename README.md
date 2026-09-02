@@ -94,6 +94,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Amirtaa-567/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Amirtaa-567/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0126-word-ladder-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0126-word-ladder-ii/) | Hard |
+| [0127-word-ladder](https://github.com/Amirtaa-567/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Amirtaa-567/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amirtaa-567/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Amirtaa-567/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -319,6 +320,7 @@
 | [0115-distinct-subsequences](https://github.com/Amirtaa-567/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Amirtaa-567/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0126-word-ladder-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0126-word-ladder-ii/) | Hard |
+| [0127-word-ladder](https://github.com/Amirtaa-567/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0224-basic-calculator](https://github.com/Amirtaa-567/Leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/Amirtaa-567/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Amirtaa-567/Leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -426,6 +428,7 @@
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0126-word-ladder-ii/) | Hard |
+| [0127-word-ladder](https://github.com/Amirtaa-567/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0200-number-of-islands](https://github.com/Amirtaa-567/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/Amirtaa-567/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -606,4 +609,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0126-word-ladder-ii/) | Hard |
+| [0127-word-ladder](https://github.com/Amirtaa-567/Leetcode/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
