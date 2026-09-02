@@ -159,6 +159,7 @@
 | [0200-number-of-islands](https://github.com/Amirtaa-567/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Amirtaa-567/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0218-the-skyline-problem](https://github.com/Amirtaa-567/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/Amirtaa-567/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Amirtaa-567/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/Amirtaa-567/Leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -216,6 +217,7 @@
 | [0053-maximum-subarray](https://github.com/Amirtaa-567/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Amirtaa-567/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0218-the-skyline-problem](https://github.com/Amirtaa-567/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0327-count-of-range-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0327-count-of-range-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/Amirtaa-567/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 ## Heap (Priority Queue)
@@ -223,6 +225,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Amirtaa-567/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0218-the-skyline-problem](https://github.com/Amirtaa-567/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Amirtaa-567/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1046-last-stone-weight](https://github.com/Amirtaa-567/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [2974-minimum-number-game](https://github.com/Amirtaa-567/Leetcode/tree/main/2974-minimum-number-game/) | Easy |
@@ -379,6 +382,7 @@
 | [0169-majority-element](https://github.com/Amirtaa-567/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Amirtaa-567/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0218-the-skyline-problem](https://github.com/Amirtaa-567/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0242-valid-anagram](https://github.com/Amirtaa-567/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Amirtaa-567/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
@@ -574,16 +578,19 @@
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/Amirtaa-567/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0327-count-of-range-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0327-count-of-range-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/Amirtaa-567/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/Amirtaa-567/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0327-count-of-range-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0327-count-of-range-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/Amirtaa-567/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/Amirtaa-567/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0327-count-of-range-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0327-count-of-range-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/Amirtaa-567/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 ## Treap
@@ -618,4 +625,8 @@
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Amirtaa-567/Leetcode/tree/main/0127-word-ladder/) | Hard |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/Amirtaa-567/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 <!---LeetCode Topics End-->
