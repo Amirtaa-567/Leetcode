@@ -343,6 +343,7 @@
 | [0066-plus-one](https://github.com/Amirtaa-567/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Amirtaa-567/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Amirtaa-567/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0089-gray-code](https://github.com/Amirtaa-567/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amirtaa-567/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0224-basic-calculator](https://github.com/Amirtaa-567/Leetcode/tree/main/0224-basic-calculator/) | Hard |
@@ -393,6 +394,7 @@
 | [0052-n-queens-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Amirtaa-567/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Amirtaa-567/Leetcode/tree/main/0079-word-search/) | Medium |
+| [0089-gray-code](https://github.com/Amirtaa-567/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0126-word-ladder-ii/) | Hard |
@@ -679,6 +681,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Amirtaa-567/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/Amirtaa-567/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0137-single-number-ii/) | Medium |
