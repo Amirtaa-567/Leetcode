@@ -87,6 +87,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Amirtaa-567/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amirtaa-567/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0189-rotate-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Amirtaa-567/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Amirtaa-567/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Amirtaa-567/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -195,6 +196,7 @@
 | [0169-majority-element](https://github.com/Amirtaa-567/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0174-dungeon-game](https://github.com/Amirtaa-567/Leetcode/tree/main/0174-dungeon-game/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Amirtaa-567/Leetcode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0189-rotate-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Amirtaa-567/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Amirtaa-567/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -325,6 +327,7 @@
 | [0069-sqrtx](https://github.com/Amirtaa-567/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Amirtaa-567/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amirtaa-567/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0189-rotate-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0224-basic-calculator](https://github.com/Amirtaa-567/Leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/Amirtaa-567/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/Amirtaa-567/Leetcode/tree/main/0233-number-of-digit-one/) | Hard |
