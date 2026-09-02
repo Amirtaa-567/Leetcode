@@ -297,6 +297,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Amirtaa-567/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Amirtaa-567/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Amirtaa-567/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amirtaa-567/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -555,6 +556,7 @@
 | [0127-word-ladder](https://github.com/Amirtaa-567/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Amirtaa-567/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Amirtaa-567/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/Amirtaa-567/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Amirtaa-567/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -584,6 +586,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [1791-find-center-of-star-graph](https://github.com/Amirtaa-567/Leetcode/tree/main/1791-find-center-of-star-graph/) | Easy |
 ## Memoization
@@ -728,6 +731,7 @@
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
