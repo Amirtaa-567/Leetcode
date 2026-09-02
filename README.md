@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Amirtaa-567/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Amirtaa-567/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Amirtaa-567/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/Amirtaa-567/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -63,6 +64,7 @@
 | [0015-3sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Amirtaa-567/Leetcode/tree/main/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Amirtaa-567/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Amirtaa-567/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Amirtaa-567/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -125,6 +127,7 @@
 | [0027-remove-element](https://github.com/Amirtaa-567/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Amirtaa-567/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/Amirtaa-567/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Amirtaa-567/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Amirtaa-567/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Amirtaa-567/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Amirtaa-567/Leetcode/tree/main/0049-group-anagrams/) | Medium |
@@ -321,6 +324,7 @@
 | [0010-regular-expression-matching](https://github.com/Amirtaa-567/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/Amirtaa-567/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Amirtaa-567/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Amirtaa-567/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Amirtaa-567/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Amirtaa-567/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
@@ -562,5 +566,6 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Amirtaa-567/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0321-create-maximum-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
 <!---LeetCode Topics End-->
