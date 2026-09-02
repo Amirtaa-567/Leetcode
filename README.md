@@ -189,6 +189,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amirtaa-567/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Amirtaa-567/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/Amirtaa-567/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Amirtaa-567/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0174-dungeon-game](https://github.com/Amirtaa-567/Leetcode/tree/main/0174-dungeon-game/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Amirtaa-567/Leetcode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
@@ -613,6 +614,7 @@
 | [0069-sqrtx](https://github.com/Amirtaa-567/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Amirtaa-567/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/Amirtaa-567/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Amirtaa-567/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0327-count-of-range-sum](https://github.com/Amirtaa-567/Leetcode/tree/main/0327-count-of-range-sum/) | Hard |
