@@ -185,6 +185,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Amirtaa-567/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Amirtaa-567/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Amirtaa-567/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0120-triangle](https://github.com/Amirtaa-567/Leetcode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amirtaa-567/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Amirtaa-567/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Amirtaa-567/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -448,6 +449,7 @@
 | [0091-decode-ways](https://github.com/Amirtaa-567/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/Amirtaa-567/Leetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Amirtaa-567/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0120-triangle](https://github.com/Amirtaa-567/Leetcode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amirtaa-567/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Amirtaa-567/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Amirtaa-567/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
