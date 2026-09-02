@@ -20,6 +20,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Amirtaa-567/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Amirtaa-567/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0321-create-maximum-number](https://github.com/Amirtaa-567/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
+| [0394-decode-string](https://github.com/Amirtaa-567/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0682-baseball-game](https://github.com/Amirtaa-567/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1472-design-browser-history](https://github.com/Amirtaa-567/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Amirtaa-567/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -142,6 +143,7 @@
 | [0233-number-of-digit-one](https://github.com/Amirtaa-567/Leetcode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Amirtaa-567/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0273-integer-to-english-words](https://github.com/Amirtaa-567/Leetcode/tree/main/0273-integer-to-english-words/) | Hard |
+| [0394-decode-string](https://github.com/Amirtaa-567/Leetcode/tree/main/0394-decode-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -408,6 +410,7 @@
 | [0273-integer-to-english-words](https://github.com/Amirtaa-567/Leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0344-reverse-string](https://github.com/Amirtaa-567/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Amirtaa-567/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0394-decode-string](https://github.com/Amirtaa-567/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0412-fizz-buzz](https://github.com/Amirtaa-567/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/Amirtaa-567/Leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Amirtaa-567/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
